@@ -4,6 +4,7 @@
   "summary": "Driver's License Parser for US Licenses implementing the AAMVA PDF-417 standard.",
   "description": "Easily parse the information within PDF-417 barcodes found on the back of\nUS and Canadian driver's licenses adhering to the AAMVA Version 8\nstandard.",
   "homepage": "https://github.com/sealz/license-parser",
+  "swift_versions": "5.0",
   "license": "MIT",
   "authors": {
     "Clayton LZ": "clayton@hauz.io"
@@ -15,5 +16,6 @@
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "LicenseParser/Classes/**/*"
+  "source_files": "LicenseParser/Classes/**/*",
+  "swift_version": "5.0"
 }

@@ -8,15 +8,20 @@ DEPENDENCIES:
   - Nimble (~> 4.1)
   - Quick (~> 0.9)
 
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Nimble
+    - Quick
+
 EXTERNAL SOURCES:
   LicenseParser:
-    :path: ../
+    :path: "../"
 
 SPEC CHECKSUMS:
-  LicenseParser: bc02c6541a6af2ff9ff91a7080cfa59045a6dded
+  LicenseParser: 8ad023edf96b7cf65e10162a869f6887c61ecccd
   Nimble: 97a0a4cae5124c117115634b2d055d8c97d0af19
   Quick: 18d057bc66451eedd5d1c8dc99ba2a5db6e60226
 
-PODFILE CHECKSUM: 773f0a7c774d1ba75ebbbd0b11758b68304f251f
+PODFILE CHECKSUM: 987cbd5e833f85b29f378fd62e13dac918427ca8
 
-COCOAPODS: 1.0.1
+COCOAPODS: 1.9.1
