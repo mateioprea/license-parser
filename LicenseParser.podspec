@@ -24,6 +24,7 @@ Pod::Spec.new do |s|
                        DESC
 
   s.homepage         = "https://github.com/sealz/license-parser"
+  s.swift_version    = '5.0'
   s.license          = 'MIT'
   s.author           = { "Clayton LZ" => "clayton@hauz.io" }
   s.source           = { :git => "https://github.com/sealz/license-parser.git", :tag => s.version.to_s }
